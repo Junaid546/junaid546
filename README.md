@@ -90,10 +90,12 @@
 
 | Project | Stack | What It Does | Status |
 |:--------|:------|:-------------|:------:|
-| 🛍️ **Luxr** | Flutter · Firebase · Riverpod · GoRouter | Production luxury fashion eCommerce — full Clean Architecture, auth, cart, orders | ![](https://img.shields.io/badge/SHIPPED-22c55e?style=flat-square) |
-| 🏠 **Estatex** | Flutter · Firebase · Riverpod | Real estate lead engine — Midnight Gold UI, listings, AI filters | ![](https://img.shields.io/badge/IN_DEV-f59e0b?style=flat-square) |
-| 📋 **QuoteSnap** | Flutter · Drift · OpenAI | AI quote generator for contractors — voice input, photo analysis, subscription paywall | ![](https://img.shields.io/badge/IN_DEV-f59e0b?style=flat-square) |
-| 📺 **ATV Remote** | Flutter · Kotlin · mDNS | Android TV remote via TLS TCP (port 6466), Kotlin-native networking layer | ![](https://img.shields.io/badge/SHIPPED-22c55e?style=flat-square) |
+| 🛍️ **[Luxr Clothing Store](https://github.com/Junaid546/Luxr-Clothing-Store-app-)** | Flutter · Firebase · Riverpod · GoRouter | Modern clothing store — Clean Architecture, auth, cart, product listings, seamless UI | ![](https://img.shields.io/badge/SHOWCASE-a78bfa?style=flat-square) |
+| 🏋️ **[AI Athlete App](https://github.com/Junaid546/AI_Athlete_app)** | Flutter · Firebase · OpenAI | Smart training platform — AI workout plans, progress charts, badge system for athletes | ![](https://img.shields.io/badge/SHOWCASE-a78bfa?style=flat-square) |
+| 🎹 **[Piano Learning App](https://github.com/Junaid546/Piano_learning-_app)** | Flutter · Firebase | Beginner-friendly piano app — interactive lessons, virtual keyboard, practice mode | ![](https://img.shields.io/badge/SHOWCASE-a78bfa?style=flat-square) |
+| 📺 **[Android TV Remote](https://github.com/Junaid546/Android-TV-Remote-)** | Flutter · Kotlin · mDNS | High-performance TV remote — TLS TCP (port 6466), ultra-fast device discovery | ![](https://img.shields.io/badge/SHOWCASE-a78bfa?style=flat-square) |
+| 📋 **[QuoteSnap](https://github.com/Junaid546/Quote-Snap)** | Flutter · Drift · OpenAI · Whisper | AI quote generator for contractors — voice input, photo analysis, subscription paywall | ![](https://img.shields.io/badge/IN_DEV-f59e0b?style=flat-square) |
+| 🏠 **Estatex** | Flutter · Firebase · Riverpod | Real estate lead engine — Midnight Gold UI, listings, AI filters | ![](https://img.shields.io/badge/COMING_SOON-3b82f6?style=flat-square) |
 
 </div>
 
@@ -103,12 +105,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=junaid546&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=junaid546&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b8fa8&card_width=400" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid546&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=junaid546&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid546&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" width="49%"/>
 
 <br/><br/>
 
@@ -139,9 +137,9 @@ Rule: Write code like you're handing it off to a team of 10.
 
 | What | Focus Area | Priority |
 |:-----|:-----------|:--------:|
-| 🏠 **Estatex** | Property listing flow | ![](https://img.shields.io/badge/HIGH-ef4444?style=flat-square) |
-| 📋 **QuoteSnap** | AI quote engine · 6 phases done | ![](https://img.shields.io/badge/HIGH-ef4444?style=flat-square) |
-| 📣 **LinkedIn** | Brand building → client acquisition | ![](https://img.shields.io/badge/ACTIVE-3b82f6?style=flat-square) |
+| 📋 **QuoteSnap** | AI quote engine · voice + photo flow | ![](https://img.shields.io/badge/HIGH-ef4444?style=flat-square) |
+| 🏠 **Estatex** | Architecture & UI foundation | ![](https://img.shields.io/badge/PLANNING-3b82f6?style=flat-square) |
+| 📣 **LinkedIn** | Brand building → client acquisition | ![](https://img.shields.io/badge/ACTIVE-a78bfa?style=flat-square) |
 | 💰 **Monetization** | SaaS subscription model | ![](https://img.shields.io/badge/NEXT-8b5cf6?style=flat-square) |
 
 </div>
