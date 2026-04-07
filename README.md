@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Junaid%20Tahir&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product%20Thinker&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=580&lines=Building+products+that+earn+%F0%9F%9A%80;Flutter+%2B+Firebase+%2B+AI+%3D+Power+%E2%9A%A1;Clean+Architecture+%7C+No+setState+%7C+Riverpod;Turning+Ideas+into+Revenue+%F0%9F%92%B0)](https://git.io/typing-svg)
 
 <br/>
@@ -17,25 +15,40 @@
 
 ## ⚡ Who I Am
 
-```dart
-class JunaidTahir extends FlutterDeveloper {
+<div align="center">
 
-  final String mission = "Build products that earn, scale, and compound.";
+| 🎯 Mission | 🧠 Mindset |
+|:----------:|:----------:|
+| Build products that **earn, scale, and compound** | *"Not here to learn. Here to SHIP."* |
 
-  final List<String> stack = [
-    "Flutter", "Dart", "Firebase", "Riverpod",
-    "GoRouter", "Clean Architecture", "AI/LLM Integration"
-  ];
+</div>
 
-  final Map<String, String> goals = {
-    "Now"       : "Ship 3 production apps",
-    "Next"      : "Launch SaaS revenue stream",
-    "Long-Term" : "Profitable product portfolio",
-  };
+<br/>
 
-  String get mindset => "Not here to learn. Here to SHIP.";
-}
-```
+<div align="center">
+
+### 🛠️ Core Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/Riverpod-1c1c2e?style=for-the-badge&logo=flutter&logoColor=A78BFA)
+![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI%2FLLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🗺️ Roadmap
+
+| ⏱️ Now | 🔜 Next | 🏁 Long-Term |
+|:------:|:-------:|:------------:|
+| Ship 3 production apps | Launch SaaS revenue stream | Profitable product portfolio |
+
+</div>
 
 ---
 
@@ -59,7 +72,7 @@ class JunaidTahir extends FlutterDeveloper {
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper_AI-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/AI_Integration-FF4B4B?style=for-the-badge&logo=sparkles&logoColor=white)
+![LLM](https://img.shields.io/badge/AI_Integration-FF4B4B?style=for-the-badge&logoColor=white)
 
 **Tooling**
 
@@ -95,8 +108,7 @@ class JunaidTahir extends FlutterDeveloper {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid546&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="36%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=junaid546&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=3" width="58%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid546&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="38%"/>
 
 <br/><br/>
 
