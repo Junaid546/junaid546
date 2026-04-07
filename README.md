@@ -3,29 +3,20 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=junaid546">
-    <img src="https://komarev.com/ghpvc/?username=junaid546&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+    <img src="https://komarev.com/ghpvc/?username=junaid546&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
 ---
 
-## 🚀 Who I Am
+## 🚀 About Me
 
-I don’t just build apps — I build **products that can scale, sell, and solve real problems**.
+I don’t just code — I build **products that scale, sell, and solve real problems**.  
 
-* 📱 Flutter Developer focused on performance & clean architecture
-* ⚡ Specialized in Firebase, Riverpod & modern UI systems
-* 🧠 Learning AI integrations + backend systems
-* 🎯 Goal: Build profitable SaaS & digital products
-
----
-
-## 🧩 What I’m Working On
-
-* 🔥 AI-powered mobile applications
-* 🏪 Smart business solutions (ordering systems, automation)
-* 📊 High-performance UI/UX systems
-* 💡 Turning ideas into real-world products
+- 📱 Flutter Developer | Performance & Clean Architecture Enthusiast  
+- ⚡ Firebase, Riverpod, Modern UI Systems  
+- 🧠 Exploring AI Integrations & Backend Systems  
+- 🎯 Mission: Launch profitable SaaS & digital products  
 
 ---
 
@@ -37,41 +28,40 @@ I don’t just build apps — I build **products that can scale, sell, and solve
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaid546&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid546&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
-</p>
+| GitHub Stats | Top Languages |
+| ------------ | ------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid546&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaid546&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🚀 AI Athlete App
-
-A smart training platform with AI-generated workout plans, analytics, and progress tracking.
+Smart training platform with **AI-generated workout plans**, analytics, and progress tracking.  
+**Tech:** Flutter, Firebase, AI Integration
 
 ### 🎹 Piano Learning App
-
-Interactive learning experience with virtual keyboard and structured lessons.
+Interactive learning experience with **virtual keyboard & structured lessons**.  
+**Tech:** Flutter, Riverpod, Clean Architecture
 
 ### 🛍️ Lux Clothing Store App
-
-Modern e-commerce UI with smooth user experience and scalable architecture.
+Modern e-commerce UI with smooth UX & scalable architecture.  
+**Tech:** Flutter, Firebase, Payment Gateway
 
 ### 📺 Android TV Remote
-
-High-performance remote control app with low latency and device discovery.
+High-performance remote control app with **low latency & device discovery**.  
+**Tech:** Flutter, Bluetooth/Network Integration
 
 ---
 
 ## ⚡ Strengths
 
-* Clean UI that actually converts
-* Fast and optimized Flutter apps
-* Real-world project thinking (not tutorial junk)
-* Business mindset + technical execution
+- Clean UI that actually converts  
+- Fast & optimized Flutter apps  
+- Real-world projects, not tutorials  
+- Business + technical execution mindset  
 
 ---
 
@@ -82,20 +72,3 @@ High-performance remote control app with low latency and device discovery.
 → Integrating AI into mobile apps
 → Building scalable backend systems
 → Launching income-generating projects
-```
-
----
-
-## 🌐 Connect
-
-* 📧 Email: [jt8498589@gmail.com](mailto:jt8498589@gmail.com)
-* 💬 WhatsApp: https://wa.me/923001118682
-* 🔗 LinkedIn: https://www.linkedin.com/in/junaid-tahir-2905a035a
-
----
-
-## ⚠️ Final Note
-
-I’m not here to just code.
-
-I’m here to build **products that people use, businesses pay for, and systems that scale.**
